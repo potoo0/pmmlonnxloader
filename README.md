@@ -1,4 +1,4 @@
-java load onnx and pmml model demo.
+java load onnx and pmml model demo, serving by RESTful api with spring-boot.
 
 # api usage
 
